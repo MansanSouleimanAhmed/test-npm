@@ -1,0 +1,22 @@
+{
+  "name": "test-npm",
+  "version": "1.0.0",
+  "description": "No need to download.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MansanSouleimanAhmed/test-npm.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Mansan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MansanSouleimanAhmed/test-npm/issues"
+  },
+  "homepage": "https://github.com/MansanSouleimanAhmed/test-npm#readme"
+}
