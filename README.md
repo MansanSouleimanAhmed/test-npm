@@ -1,2 +1,1 @@
-# test-npm
-THIS IS A TEST
+# test-skill
